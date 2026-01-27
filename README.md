@@ -1,2 +1,3 @@
 # GoodCuppa
-GoodCuppa App
+GoodCuppa App 
+Tea Timer for the Perfect Tea!
